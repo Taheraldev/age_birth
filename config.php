@@ -9,9 +9,3 @@ const _BotName = "AgeBirthBot";
 const _TimeStamp = "5198110160";
 const _ZARCHI_CHANNEL = "chat-id";
 const _REPORT_CHANNEL = "chat-id";
-
-global $config;
-$config['host'] = "localhost";
-$config['user'] = "username";
-$config['pass'] = "password";
-$config['name'] = "database-name";
